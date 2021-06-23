@@ -1,0 +1,15 @@
+stone
+dirt
+podzol
+oak_planks
+sand
+iron_ore
+oak_log
+water
+glass
+grass
+redstone_block
+~ ~ ~
+[type=
+[r=
+0 replace
